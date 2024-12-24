@@ -21,8 +21,11 @@ Welcome to my personalized Neovim configuration repository! 🚀 Dive into a sle
 Here’s how my Neovim setup looks in action:
 
 <!-- Add your images and videos here -->
-![Screenshot](path/to/screenshot.png)
-![Demo Video](path/to/video.mp4)
+![241224_20h02m01s_screenshot](https://github.com/user-attachments/assets/8dda11d9-84c9-463c-8d16-1b660db44868)
+
+![241215_19h41m51s_screenshot](https://github.com/user-attachments/assets/c22d7f70-4fde-4428-9453-52979140fe7c)
+
+
 
 ## 🐾 Commands to Explore
 
